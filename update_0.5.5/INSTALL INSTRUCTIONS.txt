@@ -1,0 +1,2 @@
+Replace your files like normal. However, replace your mapmod.dll with the mapmod.dll in this zip.
+The mapmod you should replace is in the "Crab Game/bepinex/plugins" folder.
