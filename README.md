@@ -31,3 +31,4 @@ https://github.com/o7Moon/CrabGame.MapMod/wiki/How-to-install-MapMod
 
 ## CONFIG INSTRUCTIONS
 1. Open up the ccgm_config.json file in your preferred text editor. Towards the top you'll see "your server name here". Replace that text with the name of the server you want to show in game.
+![Beschreibung des Bildes](https://cdn.discordapp.com/attachments/1069433394624204981/1071250376197673000/image.png)
